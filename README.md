@@ -24,7 +24,7 @@ You may use the following instructions to get Cassandra Stateful Set running bef
 
 Read through these pages to learn about building your spark image:
 
-[Running Apache Spark jobs on Azure Kubernetes Service](https://docs.microsoft.com/en-us/azure/aks/spark-job?WT.mc_id=sparkaks-blog-alehall)
+[Running Apache Spark jobs on Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/spark-job?WT.mc_id=data-0000-alehall)
 
 [Running Spark on Kubernetes](https://spark.apache.org/docs/latest/running-on-kubernetes.html)
 
